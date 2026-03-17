@@ -51,6 +51,13 @@
 
 
 
+<img width="1920" height="1020" alt="Снимок экрана 2026-03-17 111327" src="https://github.com/user-attachments/assets/b28ee685-75c4-470f-9aa5-946095a09dd2" />
+
+
+
+<img width="1920" height="1020" alt="Снимок экрана 2026-03-17 111558" src="https://github.com/user-attachments/assets/ff8ee98d-64c0-4330-baa7-1bfc3eaa56b8" />
+
+
 # задание 5
 
 Создайте карту и расположите на ней два своих хоста.   
