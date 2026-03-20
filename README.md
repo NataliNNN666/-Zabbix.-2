@@ -53,8 +53,6 @@
 <img width="1920" height="1020" alt="Снимок экрана 2026-03-16 125103" src="https://github.com/user-attachments/assets/435ee5dc-f7b8-45bf-9c73-7cd9dac024dc" />
 
 
-<img width="1920" height="1020" alt="Снимок экрана 2026-03-16 130921" src="https://github.com/user-attachments/assets/bccd9fa9-084d-4554-b993-f58a7f9864fa" />
-
 
 
 <img width="1920" height="1020" alt="Снимок экрана 2026-03-20 150011" src="https://github.com/user-attachments/assets/9d26006a-37de-4134-bf28-ca917276c614" />
