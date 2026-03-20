@@ -57,6 +57,9 @@
 
 
 
+<img width="1920" height="1020" alt="Снимок экрана 2026-03-20 150011" src="https://github.com/user-attachments/assets/9d26006a-37de-4134-bf28-ca917276c614" />
+
+
 # задание 4
 
 Создайте свой кастомный дашборд.    
