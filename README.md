@@ -23,18 +23,16 @@
 
 <img width="1920" height="1020" alt="Снимок экрана 2026-03-16 115810" src="https://github.com/user-attachments/assets/e97459c5-df29-4391-a0f1-3bbf201866f8" />
 
+<img width="1920" height="1020" alt="Снимок экрана 2026-03-20 142831" src="https://github.com/user-attachments/assets/da084aa1-78c7-4018-b39d-2fd0d909e668" />
 
 
-![Uploading Снимок экрана 2026-03-20 142831.png…]()
-
-
-
-
-![Uploading Снимок экрана 2026-03-20 143142.png…]()
+<img width="1920" height="1020" alt="Снимок экрана 2026-03-20 143142" src="https://github.com/user-attachments/assets/3d828057-f135-44b8-a0a6-c20dfcd04295" />
 
 
 
-![Uploading Снимок экрана 2026-03-20 143823.png…]()
+<img width="1920" height="1020" alt="Снимок экрана 2026-03-20 143823" src="https://github.com/user-attachments/assets/308ea1bf-7c91-4bc5-ab2f-4ab7289acd1a" />
+
+
 
 # задание 2,3
 
