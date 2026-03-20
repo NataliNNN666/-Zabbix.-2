@@ -65,15 +65,10 @@
  В разделе Dashboards создайте новый дашборд Разместите на нём несколько графиков на ваше усмотрение.
 
 
-<img width="1920" height="1020" alt="Снимок экрана 2026-03-16 132944" src="https://github.com/user-attachments/assets/92248e03-3f20-4674-b4b4-5c582b66a7a0" />
 
 
 
-<img width="1920" height="1020" alt="Снимок экрана 2026-03-17 111327" src="https://github.com/user-attachments/assets/b28ee685-75c4-470f-9aa5-946095a09dd2" />
-
-
-
-<img width="1920" height="1020" alt="Снимок экрана 2026-03-17 111558" src="https://github.com/user-attachments/assets/ff8ee98d-64c0-4330-baa7-1bfc3eaa56b8" />
+<img width="1282" height="893" alt="Снимок экрана 2026-03-20 154035" src="https://github.com/user-attachments/assets/3729c7bf-9228-41c2-b27b-864a3b859340" />
 
 
 # задание 5
